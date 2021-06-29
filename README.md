@@ -2,10 +2,6 @@
 <p>This is the basic HTML table layout showing the timeline of web development.</p>
 
 
-<h2>To Render this web page</h2>
-<p>Click <a href="https://mayurdayal2000.github.io/Timeline-of-Web-Dev/" target="_blank">Here</a> to render this page on your web browser.</p>
-
-
 <footer>
 <p>&copy 2021 by mayur</p>
 </footer>
